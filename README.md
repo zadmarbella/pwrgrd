@@ -1,2 +1,2 @@
 # pwrgrd
-[logo]: (./assets/0.png) "Logo Title Text 2"
+![0](assets/0.png) "0"
